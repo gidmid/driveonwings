@@ -1,12 +1,13 @@
-driveonwings
-============
+Drive On Wings
+==============
 
-Dropbox for Google Drive.
+Dropbox of Google world - a Google drive app that allows local editing of documents.
+
 
 Planned Features
 ================
 
-- Downloadable desktop app for Mac, Windows and Linux.
-- Can sync any folder on local disk with Google Drive.
-- Local folders have converted .doc/x, .xls/x, .ppt/x formats for easy local editing.
-- Google Drive (web interface) has .gdoc formats for quick online editing.
+- Would be available for Mac, Windows and Linux. Mobile apps to be released later.
+- All Google Docs format documents are automatically converted to MS Office format when synced to local disk.
+- All docs in MS Office format on local disk are seen as google docs format in Google Drive web interface.
+- All other types of files in drive are synced unchanged.
